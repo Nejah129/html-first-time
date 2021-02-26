@@ -1,0 +1,10 @@
+a {
+  color: aqua;
+}
+.menue-name h1 {
+  color: rgb(119, 177, 27);
+}
+.menue {
+  display: flex;
+  font-family: "roboto", Courier, monospace;
+}
